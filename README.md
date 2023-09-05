@@ -27,8 +27,12 @@
 
 
 
-<center>-> *** top navbar  sidebar footer will be in masster.blade.php and other things will be dynamic
--> **for this causes dashbord.blade.php wil extends the master.blade.php</center>
+<center>
+<ul>
+    <li>-> *** top navbar  sidebar footer will be in masster.blade.php and other things will be dynamic</li>
+    <li>-> **for this causes dashbord.blade.php wil extends the master.blade.php</li>
+</ul>
+</center>
 
 
 
