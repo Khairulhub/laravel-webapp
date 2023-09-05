@@ -6,9 +6,13 @@
 
 <ul>
  <li>backend
-     <li>layouts > <span >master.blade.php  (main file )</span>
-        <li>partials</li>
+     <ul>
+     <li>layouts > <span > master.blade.php  (main file )</span>
+        <ul>
+            <li>partials</li>
+        </ul>
      </li>
+     </ul>
 
     -> dashbord.blade.php
  
@@ -20,6 +24,14 @@
 <li>Installing laravel project</li>
 <li>Installing laravel project</li>
 </ul>
+
+
+
+<center>-> *** top navbar  sidebar footer will be in masster.blade.php and other things will be dynamic
+-> **for this causes dashbord.blade.php wil extends the master.blade.php</center>
+
+
+
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>

@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/admin', function () {
     return view('backend.layouts.master');
 });
+Route::get('/home', function () {
+    return view('backend.dashbord');
+});
