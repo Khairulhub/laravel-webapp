@@ -1,4 +1,25 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<ul class="">
+<li>Installing laravel project</li>
+<li>Set the database name in .env file </li>
+<li>Installing admin ui from google then set it in public folder</li>
+<li>index.php copy all code and past it in master.blade.php .  recourse > http > view  
+
+<ul>
+ <li>backend
+     <li>layouts > <span >master.blade.php  (main file )</span>
+        <li>partials</li>
+     </li>
+
+    -> dashbord.blade.php
+ 
+ </li>
+</ul>
+
+
+ </li>
+<li>Installing laravel project</li>
+<li>Installing laravel project</li>
+</ul>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
