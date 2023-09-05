@@ -15,6 +15,7 @@
      </ul>
 
     -> dashbord.blade.php
+    -> <x-slot:title > title name  </x-slot:title>
  
  </li>
 </ul>
@@ -33,6 +34,9 @@
     <li>-> **for this causes dashbord.blade.php wil extends the master.blade.php</li>
 </ul>
 </center>
+
+
+
 
 
 

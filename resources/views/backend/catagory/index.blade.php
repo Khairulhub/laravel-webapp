@@ -1,12 +1,23 @@
 {{-- @extends('backend.layouts.master') --}}
 <x-backend.layouts.master>
 
+    <x-slot:page_title>
+        Catagory 
+    </x-slot:page_title>
 
 {{-- @section('content') --}}
 <div class="card mb-4">
     <div class="card-header">
         <i class="fas fa-table me-1"></i>
-        DataTable Example
+{{-- daymic name set --}}
+
+
+        <x-slot:title>
+            Catagory list
+        </x-slot:title>
+
+
+
     </div>
     <div class="card-body">
         <table id="datatablesSimple">
