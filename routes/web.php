@@ -22,3 +22,6 @@ Route::get('/admin', function () {
 Route::get('/home', function () {
     return view('backend.dashbord');
 });
+Route::get('/catagory', function () {
+    return view('backend.catagory.index');
+});
